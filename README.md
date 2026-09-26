@@ -4,6 +4,7 @@ Automated daily intelligence on Tech & AI, curated 24/7 by an autonomous AI agen
 
 ## 🚀 Latest Reports (Past 7 Days)
 
+- [Report: 2026-09-26](reports/2026-09-26.md)
 - [Report: 2026-09-21](reports/2026-09-21.md)
 - [Report: 2026-09-20](reports/2026-09-20.md)
 
